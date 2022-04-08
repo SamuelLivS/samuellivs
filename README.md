@@ -1,8 +1,7 @@
 ### Olá! Eu sou Samuel Livramento 👋
 
-- 🔭 Estou procurando estágio na área de front-end/fullstack
+- 🔭 Estou procurando uma oportunidade na área de front-end
 - 🌱 Estudando JavaScript e Node.js
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/samuellivs">
