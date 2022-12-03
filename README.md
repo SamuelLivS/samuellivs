@@ -1,7 +1,7 @@
 ### Olá! Eu sou Samuel Livramento 👋
 
-- 🔭 Estou procurando uma oportunidade na área de front-end
-- 🌱 Estudando JavaScript e Python
+- 🔭 Estou procurando uma oportunidade na área de front-end.
+- 🌱 Estudando Python e análise de dados.
 
 <div align="center">
   <a href="https://github.com/samuellivs">
